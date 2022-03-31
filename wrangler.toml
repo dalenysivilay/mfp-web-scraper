@@ -1,7 +1,7 @@
 name = "mfp-web-scraper"
 type = "javascript"
 zone_id = ""
-account_id = ""
+account_id = "e2b0b963493513fd19576a5e7d6402b5s"
 route = ""
 workers_dev = true
 compatibility_date = "2022-03-30"
